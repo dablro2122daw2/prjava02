@@ -1,0 +1,50 @@
+INSTRUCCIONS EXECUTADES
+
+1-  git branch branca00
+
+    git checkout branca00
+    
+    git status
+
+
+
+5- git checkout main
+
+
+
+7- git heckout branca00
+
+
+
+
+10b- git merge branca00
+
+
+
+12- gti push
+
+    git status
+
+
+
+
+14a- git push --set-upstream origin branca01
+
+
+
+RESPOSTES ESCRITES
+
+6- No es pot veure l’última línia afegida en aquesta activitat, degut a que estem mirant una versió anteriorment feta abans de l’últim "commit"
+(a més, de que en aquest coment ens troben en una branca diferent a la que hem realitzat aquest últim "commit").
+
+
+
+7- En aquest cas, si que hi podem veure l’última línia afegida degut que ens trobem en la branca on s’ha realitzat l’últim "commit" del fitxer ja modificat.
+
+
+
+12c- Només s’ha actualitzat la branca "main" degut a que només hem especificat que es realitzi un "push" d’aquesta branca en concret.
+
+
+
+14c- 
